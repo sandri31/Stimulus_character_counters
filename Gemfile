@@ -71,5 +71,7 @@ group :test do
   gem "webdrivers"
 end
 
+gem 'bootstrap'
 gem 'foreman', github: 'ddollar/foreman'
+gem 'sassc-rails'
 gem 'simple_form', '~> 5.2'
