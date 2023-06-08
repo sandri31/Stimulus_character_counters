@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stimulus-character-counter": "^4.2.0"
+  }
+}
